@@ -1,1 +1,2 @@
-# hw10
+1. I will use Arduino to make a Automatic Bubble Machine. I think I can use two motors, one is used to control fan to make air    movement, and the other is used to control the bubble wand to dip the mixture and then facing to the fan. The fan The fan      turns to make bubbles.
+2. Using Arduino' audio module and p5.js together. Arduino is used to Arduino is used as the voice input to display the image    on p5.js，like weather.
